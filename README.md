@@ -1,7 +1,5 @@
 ![Banner Image](https://devblogs.microsoft.com/python/wp-content/uploads/sites/12/2023/09/python-day-resize.png)
 
-# Python Developer Challenges
-
 Welcome to our Python Developer Challenges! Whether you're a beginner or an experienced developer, these challenges are designed to help you build your skills and earn your Python Developer Badge. Choose the challenge that suits your interests and level of expertise.
 
 ## Python AI and Machine Learning Challenge
