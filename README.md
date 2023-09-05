@@ -12,19 +12,19 @@ Step into the realm of AI and machine learning with our Python Challenge. Develo
 
 Unlock web development with our Python Challenge. Master HTML, CSS, Flask, and Django to create functional web apps. Earn your Python Developer Badge today!
 
-[Register Here](https://cloudskillschallenge.docs.microsoft.com/CSC/Challenge?challenge=580295dc-94d9-4f2f-88e9-192996505319)
+[Register](https://cloudskillschallenge.docs.microsoft.com/CSC/Challenge?challenge=580295dc-94d9-4f2f-88e9-192996505319)
 
 ## 3. Data Challenge
 
 Delve into data with our Python Challenge. Learn data manipulation, analysis, and visualization using pandas and numpy. Turn data into insights and claim your Python Developer Badge.
 
-[Register Here](https://cloudskillschallenge.docs.microsoft.com/CSC/Challenge?challenge=b314dff1-0807-4c34-8bd4-c273e016ac65)
+[Register](https://cloudskillschallenge.docs.microsoft.com/CSC/Challenge?challenge=b314dff1-0807-4c34-8bd4-c273e016ac65)
 
 ## 4. Beginner Challenge
 
 Embark on your Python journey with our Beginner Challenge. Learn fundamentals while building your first AI app. 
 
-[Register Here](https://cloudskillschallenge.docs.microsoft.com/CSC/Challenge?challenge=5903b15e-729a-4968-9061-2e7d8284ef82)
+[Register](https://cloudskillschallenge.docs.microsoft.com/CSC/Challenge?challenge=5903b15e-729a-4968-9061-2e7d8284ef82)
 
 ## Getting Started
 
